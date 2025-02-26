@@ -1,0 +1,15 @@
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\bin\Debug\net9.0\C-ile-BackEnd-Homework1.exe
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\bin\Debug\net9.0\C-ile-BackEnd-Homework1.deps.json
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\bin\Debug\net9.0\C-ile-BackEnd-Homework1.runtimeconfig.json
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\bin\Debug\net9.0\C-ile-BackEnd-Homework1.dll
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\bin\Debug\net9.0\C-ile-BackEnd-Homework1.pdb
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.AssemblyInfoInputs.cache
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.AssemblyInfo.cs
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.csproj.CoreCompileInputs.cache
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.sourcelink.json
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.dll
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\refint\C-ile-BackEnd-Homework1.dll
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.pdb
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\C-ile-BackEnd-Homework1.genruntimeconfig.cache
+C:\Users\furky\Desktop\Life\C-ile-BackEnd-Homework1\obj\Debug\net9.0\ref\C-ile-BackEnd-Homework1.dll
