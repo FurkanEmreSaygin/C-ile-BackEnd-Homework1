@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-ile-BackEnd-Homework1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b31d23c253921c69813a6cb84838f7523a94a1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418d6c66016a63672d72eadadbf667a2310514cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-ile-BackEnd-Homework1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-ile-BackEnd-Homework1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
